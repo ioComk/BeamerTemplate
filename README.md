@@ -1,0 +1,2 @@
+# BeamerTemplate
+my template
